@@ -1,4 +1,4 @@
-# Debugging - Additional Practice
+# Debugging
 
 > The terms "bug" and "debugging" are popularly 
 > attributed to Admiral Grace Hopper in the 1940s. 
@@ -9,7 +9,7 @@
 > the system. - Wikipedia
 
 Debugging is the process of finding and fixing problems
-in our code. The key word being _process_ - part of the journey
+in our code. The keyword being _process_ - part of the journey
 of learning how to program is learning how to deal with
 obstacles like errors in your code. 
 
