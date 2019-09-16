@@ -112,6 +112,11 @@ limits, is fine, but ***requiring it*** to do your basic tasks is a "No Hire" re
 flag. Don't lose your chance at employment by becoming dependent on the 
 "stop the world" debuggers.
 
+We hope that you'll take the challenges you found _before_ getting stop-the-world
+debuggers in the spirit of Daniel-san from the 1984 classic, _The Karate Kid_.
+
+![What Have You Learned, Daniel-san?](https://youtu.be/2ynryUjGFt8?t=80)
+
 ### Conclusion
 
 In this module, we'll discuss how to debug methodically before giving you
