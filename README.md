@@ -14,7 +14,7 @@ of learning how to program is learning how to deal with
 obstacles like errors in your code.
 
 "Debugging" is the process a mechanic does when you bring your
-car in. "When I start it it sounds fine, but when I hit the
+car in. "When I start it, it sounds fine. But when I hit the
 brakes I hear squee-squee-squee." "Debugging" is the process
 a repair person does when your washing machine does something
 "strange."
@@ -44,7 +44,7 @@ Unix operating system; so, someone who made a bug or two):
 
 We might not have battery testers, but if we have small methods we can
 put `puts` and `print`s and `p` and even `pp` throughout our code so
-that we can understand the flow of the code. At this point we can
+that we can understand the flow of the code. At this point, we can
 print out the contents of variables or leave a message to ourselves
 in the console output like:
 
@@ -76,18 +76,18 @@ first.
 ### Interviews
 
 Programmers are usually hired during a "whiteboard" interview where they
-have to handle complexity, correct code, and achieving a goal by writing 
-with a pen on whiteboard. If you don't have the ability to structure
+have to handle complexity, correct code, and achieving a goal by writing
+with a pen on a whiteboard. If you can't structure
 code in digestible chunks, or to debug it by reading code, you will not
 pass the interview. We speak from bitter experience here.
 
 ### Debugging Production
 
 Most of the time, on a production system, it's not OK to stop the site
-in order to use the "stop the world" debugger. Can you imagine someone
+to use a "stop the world" debugger. Can you imagine someone
 freezing Facebook or Amazon to debug something? No.
- the c
-The way thos engineers debug those sites is they look at a log file with
+
+The way those engineers debug those sites is they look at a log file with
 data about what the world looked like, they look at the code, and then
 they think **really** hard about how those two would interact. They build
 little mock experiments and figure out what went wrong. You can't neglect
@@ -114,10 +114,10 @@ flag. Don't lose your chance at employment by becoming dependent on the
 
 ### Conclusion
 
-In this section we'll discuss how to debug methodically before giving you
+In this module, we'll discuss how to debug methodically before giving you
 [Excalibur][], the stop-the-world debugger known as "Pry." We've held it
 back from you so that you could be sure to learn "small methods" and
-"clear variable names" as the core technique for preventing bugs. At the 
+"clear variable names" as the core technique for preventing bugs. At the
 end of this section, you'll be shown Pry.
 
 [Excalibur]: https://en.wikipedia.org/wiki/Excalibur
