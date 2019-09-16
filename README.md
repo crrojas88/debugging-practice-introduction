@@ -115,7 +115,7 @@ flag. Don't lose your chance at employment by becoming dependent on the
 We hope that you'll take the challenges you found _before_ getting stop-the-world
 debuggers in the spirit of Daniel-san from the 1984 classic, _The Karate Kid_.
 
-![What Have You Learned, Daniel-san?](https://youtu.be/2ynryUjGFt8?t=80)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ynryUjGFt8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Conclusion
 
