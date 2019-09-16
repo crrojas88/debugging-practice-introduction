@@ -17,5 +17,4 @@ This section contains lessons related to debugging in Ruby, including
 common errors, fixing broken code, and using Pry. In addition, here
 are some resources you may find helpful:
 
-* [An Intro to Ruby Debugging featuring Pry](https://medium.com/@TheDickWard/an-intro-to-ruby-debugging-featuring-pry-c931fde69069)
-* [Ruby Exceptions](http://rubylearning.com/satishtalim/ruby_exceptions.html)
+
