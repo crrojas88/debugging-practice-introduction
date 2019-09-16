@@ -1,3 +1,5 @@
+![Debugging Icon](https://curriculum-content.s3.amazonaws.com/module-1/practice-debugging/Image_113_Code%20Debugging.png)
+
 # Debugging
 
 > The terms "bug" and "debugging" are popularly 
